@@ -1,2 +1,2 @@
-# datacamp-survival-analysis
-Course Survival Analysis in Python from DataCamp
+# public-data-tech-forum
+Code used for labs of Data Science meetup in Toronto
