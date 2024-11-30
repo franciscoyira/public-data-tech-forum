@@ -1,5 +1,5 @@
 #!/bin/bash
-pip install -r requirements.txt
+pip install --upgrade pip && pip install -r requirements.txt
 
 # Add a function-based alias that takes a commit message
 echo '
