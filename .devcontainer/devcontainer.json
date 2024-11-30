@@ -23,7 +23,7 @@
             }
         }
     },
-    "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt",
+    "postCreateCommand": "bash .devcontainer/setup.sh"
     "forwardPorts": [8888],
     "portsAttributes": {
         "8888": {
